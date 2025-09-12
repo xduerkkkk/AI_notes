@@ -1,0 +1,11 @@
+# 临时文件和个人笔记
+dataprocess.ipynb
+knn.py
+numpy.ipynb
+
+# 忽略所有 .zip 文件
+*.zip
+
+# 忽略 Python 的缓存文件
+__pycache__/
+*.pyc
